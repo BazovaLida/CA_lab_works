@@ -1,0 +1,7 @@
+# ninja log v5
+0	16	0	clean	a31eedcededa8236
+0	13	0	clean	a31eedcededa8236
+1	70	1602703801100848921	CMakeFiles/factor.dir/factorial.cpp.o	74dab84dc5d8466a
+71	239	1602703801264179762	libfactor.a	4205c64b7735eb8f
+0	596	1602703801624174270	CMakeFiles/CA_lab_works.dir/main.cpp.o	51acf8805231f68e
+596	705	1602703801734172591	CA_lab_works	8647004a7e7e8366
