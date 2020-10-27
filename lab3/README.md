@@ -22,7 +22,7 @@ To display examples use -e key earlier than other keys**_
 
 _make_
 
-./phrasal_verb_get -h
+./phrasal_verb_get -h  \n
 ./phrasal_verb_get --up 1,2
 ./phrasal_verb_get -e -U 3,2
 ./phrasal_verb_get -e -D 2,3 --away 1
