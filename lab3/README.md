@@ -1,6 +1,5 @@
 
 # List of options:
----
 - --help -h
     Displays help message.
 - --example -e
@@ -19,7 +18,7 @@
 _**Keys can take parameters "1", "2" or "3" or any their combinations
 To display examples use -e key earlier than other keys**_
 
-## Examples of using
+### Examples of using
 
 _make_
 
